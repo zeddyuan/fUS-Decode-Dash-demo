@@ -1,0 +1,78 @@
+{
+  "feature_names": [
+    "LIP_mean",
+    "LIP_std",
+    "LIP_max",
+    "LIP_min",
+    "LIP_range",
+    "LIP_slope",
+    "LIP_peak_lat",
+    "LIP_energy",
+    "MIP_mean",
+    "MIP_std",
+    "MIP_max",
+    "MIP_min",
+    "MIP_range",
+    "MIP_slope",
+    "MIP_peak_lat",
+    "MIP_energy",
+    "VIP_mean",
+    "VIP_std",
+    "VIP_max",
+    "VIP_min",
+    "VIP_range",
+    "VIP_slope",
+    "VIP_peak_lat",
+    "VIP_energy",
+    "Area5_mean",
+    "Area5_std",
+    "Area5_max",
+    "Area5_min",
+    "Area5_range",
+    "Area5_slope",
+    "Area5_peak_lat",
+    "Area5_energy",
+    "Area7_mean",
+    "Area7_std",
+    "Area7_max",
+    "Area7_min",
+    "Area7_range",
+    "Area7_slope",
+    "Area7_peak_lat",
+    "Area7_energy"
+  ],
+  "n_features": 40,
+  "n_epochs": 176,
+  "n_directions": 8,
+  "directions": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "roi_names": [
+    "LIP",
+    "MIP",
+    "VIP",
+    "Area5",
+    "Area7"
+  ],
+  "sfreq": 2.0,
+  "epoch_samples": 8,
+  "classifiers": {
+    "SVM (RBF)": {
+      "cv_accuracy_mean": 0.8692063492063493,
+      "cv_accuracy_std": 0.09505591040168289,
+      "f1_weighted": 0.8691462825443566
+    },
+    "Random Forest": {
+      "cv_accuracy_mean": 0.8463492063492064,
+      "cv_accuracy_std": 0.03002308677469682,
+      "f1_weighted": 0.8442169273176213
+    }
+  }
+}

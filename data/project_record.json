@@ -1,0 +1,46 @@
+[
+  {
+    "Session": 1,
+    "Run": 1,
+    "Monkey": "K",
+    "nTargets": 8,
+    "Slot": 1,
+    "Task": "hand",
+    "pretraining": true,
+    "retraining": true,
+    "filename": "rt_fUS_data_S1_R1.mat"
+  },
+  {
+    "Session": 1,
+    "Run": 2,
+    "Monkey": "K",
+    "nTargets": 8,
+    "Slot": 1,
+    "Task": "hand",
+    "pretraining": true,
+    "retraining": true,
+    "filename": "rt_fUS_data_S1_R2.mat"
+  },
+  {
+    "Session": 2,
+    "Run": 1,
+    "Monkey": "K",
+    "nTargets": 4,
+    "Slot": 2,
+    "Task": "eye",
+    "pretraining": false,
+    "retraining": true,
+    "filename": "rt_fUS_data_S2_R1.mat"
+  },
+  {
+    "Session": 2,
+    "Run": 2,
+    "Monkey": "K",
+    "nTargets": 4,
+    "Slot": 2,
+    "Task": "eye",
+    "pretraining": false,
+    "retraining": true,
+    "filename": "rt_fUS_data_S2_R2.mat"
+  }
+]
