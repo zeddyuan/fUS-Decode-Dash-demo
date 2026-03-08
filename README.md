@@ -2,6 +2,11 @@
 
 > A full-stack prototype demonstrating how functional ultrasound (fUS) brain-computer interface data can be processed, decoded, and visualized in a real-time clinical monitoring dashboard — designed for the next generation of non-invasive neural interfaces.
 
+<p align="center">
+  <img src="https://d2xsxph8kpxj0f.cloudfront.net/119582955/LvQqNF3DtV4h9VNqrxANkn/dashboard-demo_14f6c9cf.gif" alt="fUS-Decode-Dash Live Demo" width="100%" />
+</p>
+<p align="center"><em>Real-time clinical monitoring dashboard with fUS signal streaming, AI neural decoding, and clinical metrics</em></p>
+
 ---
 
 ## Executive Summary
